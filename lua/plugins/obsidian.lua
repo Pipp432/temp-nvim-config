@@ -15,11 +15,7 @@ return {
 			workspaces = {
 				{
 					name = "Work Vault",
-					path = "~/Desktop/Obsidian-Vaults/Work-Vault",
-				},
-				{
-					name = "Personal Vault",
-					path = "~/Desktop/Obsidian-Vaults/Personal-Vault",
+					path = "~/Desktop/Developer-Notes",
 				},
 			},
 			mappings = {
