@@ -10,6 +10,7 @@ return {
 	config = function()
 		vim.opt.conceallevel = 1
 		require("obsidian").setup({
+			ui = { enable = false },
 
 			conceallevel = 1,
 			workspaces = {
